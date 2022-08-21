@@ -29,7 +29,7 @@ define( 'DB_USER', 'wordpress' );
 define( 'DB_PASSWORD', 'AVNS_hrlfhOIanK8lpVVaWMV' );
 
 /** Database hostname */
-define( 'DB_HOST', 'db-mysql-fra1-zug-do-user-11112402-0.b.db.ondigitalocean.com' );
+define( 'DB_HOST', 'db-mysql-fra1-zug-do-user-11112402-0.b.db.ondigitalocean.com:25060' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
