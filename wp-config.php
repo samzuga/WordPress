@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'defaultdb' );
 
 /** Database username */
-define( 'DB_USER', 'doadmin' );
+define( 'DB_USER', 'wordpress' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'AVNS_RKjHh9G860oIItNjhXN' );
+define( 'DB_PASSWORD', 'AVNS_hrlfhOIanK8lpVVaWMV' );
 
 /** Database hostname */
 define( 'DB_HOST', 'db-mysql-fra1-zug-do-user-11112402-0.b.db.ondigitalocean.com' );
